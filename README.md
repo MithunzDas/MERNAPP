@@ -1,0 +1,1 @@
+# MERNAPP - How to interact frontend with backend and local databases MongoDb. It's a very simple application.
